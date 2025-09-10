@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.container{
+    width: 80%;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.main-card {
+    background-color: #F8FAFC;
+    width: 1440px;
+    height: 512px;
+    margin-top: -80px;
+}
+
+.top {
+    display: flex;
+    margin-top: 80px;
+}
+
+.bottom {
+    display: flex;
+    width: 1776px;
+    height: 276px;
+    margin-left: 40px;
+    margin-top: 24px;
+}
+
+
+.bottom-card {
+    width: 432px;
+    height: 276px;
+    border-radius: 16px;
+    background-color: #fff;
+    padding: 24px;
+    gap: 8px;
+    margin-left: 16px;
+}
+
+.img0 {
+    margin-left: 24px;
+}
+
+.img {
+    margin-top: 24px;
+    margin-left: 24px;
+}
+
+.text {
+    margin-top: 8px;
+    padding-right: 45px;
+    font-size: 16px;
+    margin-left: 24px;
+}
+
+.top-btn {
+    margin-left: 844px;
+    margin-top: 80px;
+    cursor: pointer;
+}
+
+.text-top {
+    width: 308px;
+    height: 68px;
+}
+
+.h3 {
+    margin-top: 80px;
+    margin-left: 80px;
+}
+
+.btn-left {
+    width: 56px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    background-color: #94A3B8;
+}
+
+.btn-right {
+    width: 56px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    background-color: #94A3B8;
+}
+
+.main-card2 {
+    width: 1441px;
+    height: 1010px;
+    gap: 60px;
+    margin-left: 159px;
+    margin-top: 60px;
+}
+
+.big-card {
+    width: 1123px;
+    height: 870px;
+
+}
+
+.top-div {
+    display: flex;
+}
+
+.bottom-div {
+    display: flex;
+}
+
+.right {
+    margin-left: 174px;
+    margin-top: 135px;
+    font-size: 20px;
+}
+
+.text2 {
+    font-size: 17px;
+    color: #1D2939;
+    margin-top: 8px;
+}
+
+.btn {
+    color: #fff;
+    background-color: #000;
+    width: 273px;
+    height: 48px;
+    cursor: pointer;
+}
+
+.img-btn {
+    margin-bottom: -3px;
+    margin-left: 5px;
+}
+
+.right2 {
+    margin-top: 60px;
+}
+
+.left2 {
+    margin-top: 175px;
+}
+
+.text3 {
+    padding-right: 135px;
+    font-size: 17px;
+    color: #1D2939;
+    margin-top: 8px;
+}
+
+.btn {
+    color: #fff;
+    background-color: #000;
+    width: 273px;
+    height: 48px;
+    margin-top: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.img-btn {
+    margin-bottom: -3px;
+    margin-left: 5px;
+}
